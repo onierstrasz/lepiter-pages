@@ -1,0 +1,1 @@
+---Title: How to extract all text from a page---#How to extract all text from a page- [[howto]] [[lepiter]]- For example, set `aPage := self` when inspecting a page.- aPage := thisSnippet page.snippets := aPage		deep: #children		select: [ :child | child isKindOf: LeTextSnippet ].Character cr join: (snippets collect: #text)

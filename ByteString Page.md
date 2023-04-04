@@ -1,0 +1,1 @@
+---Title: ByteString Page---#ByteString Page- LePage new addSnippet: (LeTextSnippet string: self)- (LePage unnamedPage addSnippet: (LePharoSnippet new code: '''foo'''; yourself);  yourself)

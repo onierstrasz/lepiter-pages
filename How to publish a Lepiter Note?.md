@@ -1,0 +1,5 @@
+---Title: How to publish a Lepiter Note?---#How to publish a Lepiter Note?- [[todo]]  [[howto]]  [[soon]]- [[Q]] for [[TG]]? How to do this?- See [[TG]] [slack response](https://feenk.slack.com/archives/CNT0ZB7T9/p1646389832500139).    - Publishing happens through a not yet public code and it requires a user
+The code is here:    - Metacello new
+   baseline: 'LepiterApp';
+   repository: 'github://feenkcom/lepiter-app:main/src';
+   load.    - And you would need a user setup for you.    - Once you have a user you can create a space or be associated with a space that is hosted under [lepiter.io](https://lepiter.com).    - [lepiter.io/feenk](https://lepiter.io/feenk/) is such a space.    - If you just look for exporting html locally, you can use this example:    - {{gtMethod:LeHtmlPageExporterExamples>>#sampleSnippetsPage|expanded}}

@@ -1,0 +1,1 @@
+---Title: What to do when the system is sluggish---#What to do when the system is sluggish- [[howto]]- Go to  Monitor >> Future Workers and look for processes with Pending queues.- Inspect the Pending queue view and click on the `x` to kill them.

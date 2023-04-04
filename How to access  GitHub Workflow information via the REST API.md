@@ -1,0 +1,5 @@
+---Title: How to access  GitHub Workflow information via the REST API---#How to access  GitHub Workflow information via the REST API- [[Workflow Evolution]]- #See also    - [GitHub Workflow REST API doc](https://docs.github.com/en/rest/actions/workflows?apiVersion=2022-11-28).    - {{gtPage:Working with a REST API: The GitHub case study|db=2j9m7db2i4oz116bexd7wbdxo}}- These are some of the repos [[PV]] used:- repos='git@github.com:fastai/fastai.git
+git@github.com:microsoft/vscode.git
+git@github.com:pandas-dev/pandas.git
+git@github.com:numpy/numpy.git
+git@github.com:vdaas/vald.git'- Repo:- url := 'https://api.github.com/repos/fastai/fastai'.json := ZnClient new get: url.dictionary := STON fromString: json.- Workflows:- url := 'https://api.github.com/repos/fastai/fastai/actions/workflows'.json := ZnClient new get: url.dictionary := STON fromString: json.- A workflow:- url := 'https://api.github.com/repos/fastai/fastai/actions/workflows/2303691'.json := ZnClient new get: url.dictionary := STON fromString: json.- You can access the run attempts, run logs etc etc.

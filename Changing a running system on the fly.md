@@ -1,0 +1,13 @@
+---Title: Changing a running system on the fly---#Changing a running system on the fly- #Bouncing atoms simulation    - This demo shows a simple simulation of atoms bouncing against four walls.    - BlBouncingAtomsElement demo    - However these are not just animated pixels but live objects that we can interact with.- #Inspecting live objects    - Try to find an atom that is not moving. Click on it and drag it.    - Double-click on it to open a new Inspector tab on it        - *Tip: to see three columns instead of two, grab the right edge of each column and drag them to make them skinnier.*- #Objects have (moldable) views    - Have a look at the various tabs. Each shows a different view.    - Children and Parents show us how the graphicalelements are composed.    - The Raw view shows us the object state. The Meta view shows us the code.    - Note that the velocity (Raw view) is `0@0` — 0 in both x and y directions.- #Interacting with live objects    - Pull up the bottom edge of the Inspector on the AtomElement to show a Playground.    - Update the velocity by sending this message:        - ```language=text
+self velocity: 3@4
+```    - Maybe we can't see anymore where it is, so let's change the color:        - ```language=text
+self background: Color blue
+```    - We can also make it bigger:        - ```language=text
+self size: 10@10
+```- #Make live changes to the code    - We would like the atoms to change color when they bounce against the walls.    - When they bounce, the atoms change their velocity, so let's find the *senders* (methods which send) the message `velocity:`. Click on the `velocity:` message and type Cmd-n.        - *Tip:* Some useful keyboard shortcuts: Cmd-n (find seNders), Cmd-m (find iMplementors, Cmd-b (Browse code), Cmd-d (Do it), Cmd-p (Print it), Cmd-g (inspect it)    - We discover that the {{gtMethod:name=BlAtomElement>>bounceIn:}} is the one we want.    - We find this line:        - ```language=text
+bounced ifTrue: [self velocity: vx @ vy].
+```    - and modify it to add this code:        - ```language=text
+		vx < 0
+			ifTrue: [ self background: Color orange ]
+			ifFalse: [ self background: Color green ]
+```    - We commit (save) the method, and it is immediately compiled and affects the running system.- #Exercise    - From the `BouncingAtomElement` itself, find all the stationary atoms, make them bigger, and make them move.

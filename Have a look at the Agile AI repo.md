@@ -1,0 +1,1 @@
+---Title: Have a look at the Agile AI repo---#Have a look at the Agile AI repo- See the [github repo](https://github.com/coentjo/agile-ai-in-pharo) mentioned in the [discord message on use cases](https://discord.com/channels/729445214812504107/739928427485986907/953606559110410250).

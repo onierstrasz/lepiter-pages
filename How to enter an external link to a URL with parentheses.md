@@ -1,0 +1,1 @@
+---Title: How to enter an external link to a URL with parentheses---#How to enter an external link to a URL with parentheses- [[howto]] [[lepiter]]- You can escape the parentheses as follows:[Yarn](https://en.wikipedia.org/wiki/Yarn_%28package_manager%29)

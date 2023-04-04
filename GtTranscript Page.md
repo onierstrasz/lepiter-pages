@@ -1,0 +1,1 @@
+---Title: GtTranscript Page---#GtTranscript Page- self flush- self clear

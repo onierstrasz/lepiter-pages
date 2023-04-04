@@ -1,0 +1,1 @@
+---Title: How to format a lepiter example snippet---#How to format a lepiter example snippet- [[howto]] [[lepiter]] [[todo]]- See {{gtPage:Example snippet|db=2j9m7db2i4oz116bexd7wbdxo}} in the gt book.

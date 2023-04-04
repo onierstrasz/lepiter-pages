@@ -1,0 +1,1 @@
+---Title: GT demos---#GT demos- [[todo]] [[projects]]- Some random demos and exercises- To work on: [[Load the Subtitle editor project]]- Metacello new	baseline: 'GtDemos';	repository: 'github://onierstrasz/gt-demos/src';	load.(Smalltalk at: #BaselineOfGtDemos) loadLepiter.Smalltalk saveAs: 'gt-demos'

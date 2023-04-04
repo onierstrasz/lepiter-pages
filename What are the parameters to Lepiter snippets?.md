@@ -1,0 +1,1 @@
+---Title: What are the parameters to Lepiter snippets?---#What are the parameters to Lepiter snippets?- [[lepiter]] [[randomnote]]- Where are these documents>- #Example snippets    - ` | previewExpanded=true`    - ` | noCode=true`    - ` | previewHeight=400`    - ` | previewShow=gtViewContactsIconsCircularOn:`

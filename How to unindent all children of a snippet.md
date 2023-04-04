@@ -1,0 +1,1 @@
+---Title: How to unindent all children of a snippet---#How to unindent all children of a snippet- #Parent    - parent := thisSnippet parent.parent isPage	ifFalse: [ [ parent children notEmpty ] whileTrue: [ parent children last unindent ] ]    - foo        - baz    - bar

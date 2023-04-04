@@ -1,0 +1,1 @@
+---Title: asHTMLDocument fails on many GT Book pages---#asHTMLDocument fails on many GT Book pages- [[bug]]- [[issue]]- failures := OrderedCollection new.LeStorageExamples new gtBook pages	do: [ :p | [ p asHTMLDocument ] onErrorDo: [ :err | failures add: p -> err ] ].failures.

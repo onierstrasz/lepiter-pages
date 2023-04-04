@@ -1,0 +1,4 @@
+---Title: Moldable Development Examples---#Moldable Development Examples- [[vissoft]]- See also [[2022-07-06 TG chat about VISSOFT keynote]]- These are some random examples of GT views being used to leverage moldable development. Perhaps some can be used for the [[vissoft]] talk ...- See various examples in [One rendering tree](https://medium.com/feenk/one-rendering-tree-918eae49bcff)- #Ludo game    - See {{gtClass:name=GtLudoGameExamples}}.    - Telling a story about the history of a game:        - GtLudoRecordingGame new autoPlay: 1000        - Profiling (press the last button).- #Examples to create?    - Sudoku solver    - Comment analysis- #Restaurant example    - See  [[2022-07-06 TG chat about VISSOFT keynote]]    - Metacello new
+   baseline: 'UhmoWithoutGT';
+   repository: 'github://feenkcom/uhmo/src';
+   load- #Visualizations    - See [[Cool visualizations]]

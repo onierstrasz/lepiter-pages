@@ -1,0 +1,1 @@
+---Title: Typist Page---#Typist Page- self millisecondsPerCharacter rounded- self typeFaster- self typeSlow

@@ -1,0 +1,1 @@
+---Title: Look at the Sprites game---#Look at the Sprites game- {{gtTodo:label=Have a look at the Sprites game}}- [[todo]] [[exploration]]- Have a look at the [Sprites game](https://lepiter.io/feenk/drawing-multiple-sprites-of-a-water-tank-daker357r2ls686tqyd6g1jgn/) example

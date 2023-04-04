@@ -1,0 +1,1 @@
+---Title: How to find the indices of  elements in a collection matching a predicate---#How to find the indices of  elements in a collection matching a predicate- aCollection := 'abcdefghijkl'.aPredicate := #isVowel.indices := OrderedCollection new.aCollection	withIndexDo: [ :value :index | (aPredicate value: value) ifTrue: [ indices add: index ] ].indices

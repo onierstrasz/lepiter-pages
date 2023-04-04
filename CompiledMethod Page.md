@@ -1,0 +1,1 @@
+---Title: CompiledMethod Page---#CompiledMethod Page- self sourceCode storeString- self methodClass organization  classify: self selector under: 'example'- self selector

@@ -1,0 +1,4 @@
+---Title: Update the GT Book github howto---#Update the GT Book github howto- [[todo]] [[soon]] [[howto]] [[gtbook]] [[fixpage]]- Update the GT book page on How to work with github. (See [[Working with GitHub (redux)]].)- [[howto]] [[github]] [[gtbook]]- The GT Book page does not seem to tell the right story.- If you try to commit the first time, the Git tool may freeze. In the Morphic World you can see that Iceberg prompts you for the github username and email.- You can enter these in the dialog pane.- Another thing you can do is:- ```language=text
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```- This creates a .gitconfig file in your home directory.- See also: [[How to work with git branches]]

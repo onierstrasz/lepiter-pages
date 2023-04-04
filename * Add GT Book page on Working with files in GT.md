@@ -1,0 +1,1 @@
+---Title: * Add GT Book page on Working with files in GT---#* Add GT Book page on Working with files in GT- [[todo]] [[gtbook]]- See [discord discussion](https://discord.com/channels/729445214812504107/735947900651175998/1070117367012663427).

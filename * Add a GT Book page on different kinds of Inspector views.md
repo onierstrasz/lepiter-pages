@@ -1,0 +1,1 @@
+---Title: * Add a GT Book page on different kinds of Inspector views---#* Add a GT Book page on different kinds of Inspector views- [[todo]] [[gtbook]] [[asap]]- [[TG]] the inspector views show should be removed, but we should have a detailed page with snippets and examples for each view like we have for the querying pharo code

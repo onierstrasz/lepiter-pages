@@ -1,0 +1,1 @@
+---Title: SE---#SE- [[person]]- Stephan Eggermont- [SE on github](https://github.com/StephanEggermont) and on [linkedIn](https://www.linkedin.com/in/stephan-eggermont-825a001/recent-activity/posts/).

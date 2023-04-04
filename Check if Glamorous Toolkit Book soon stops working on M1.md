@@ -1,0 +1,1 @@
+---Title: Check if Glamorous Toolkit Book soon stops working on M1---#Check if Glamorous Toolkit Book soon stops working on M1- {{gtTodo:label=Have a look at m1 mac Lepiter issue}}- [[bug]] [[todo]]- Have a look at [issue 2366](https://github.com/feenkcom/gtoolkit/issues/2366)

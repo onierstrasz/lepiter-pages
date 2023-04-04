@@ -1,0 +1,1 @@
+---Title: 2022-05-04 TG Chat about Ludo game design---#2022-05-04 TG Chat about Ludo game design- [[meetings]]- Want to show before and after differences in test scenarios.- Can be a driver for making moves first-class entities.- See {{gtPage:Ludo Game with first-class moves|db=xbft2u51a9xikyib7hoqf92n}}

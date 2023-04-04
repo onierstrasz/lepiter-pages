@@ -1,0 +1,1 @@
+---Title: Sudoku class Page---#Sudoku class Page- MethodFinder new findMethodsByExampleInput: { 'abc' . 5 } andExpectedResult: 'abc  '- MethodFinder new findMethodsByExampleInput: { 'a' . 5 } andExpectedResult: 'aaaaa'

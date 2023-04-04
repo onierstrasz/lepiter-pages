@@ -1,0 +1,1 @@
+---Title: How to run examples from the command line---#How to run examples from the command line- [[howto]]- This will run the examples in the GToolkit-Demo-Ludo' package.- ./GlamorousToolkit.app/Contents/MacOS/GlamorousToolkit-cli GlamorousToolkit.image examples --junit-xml-output --verbose 'GToolkit-Demo-Ludo'

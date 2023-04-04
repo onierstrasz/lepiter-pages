@@ -1,0 +1,4 @@
+---Title: Actor Modeling tool---#Actor Modeling tool- [[randomnote]] [[projects]]- [[AMT]] Artthik's BSc project.- See the [github repo](https://github.com/artthik/ActorModelingTool).- Metacello new
+	baseline: 'AMT';
+	repository: 'github://artthik/ActorModelingTool';
+	load- To start with a blank canvas with an initial domain entity execute following command:- AMTController new- To start with a simple Hello World example execute following command:- AMTHelloWorldExample new- To inspect the AMT use case execute following command:- AMTExampleATMWithdrawal new completeScenario- To inspect the Vostra example execute following command:- AMTVostraExample new completeScenario

@@ -1,0 +1,1 @@
+---Title: LeLogicalDatabaseProperties Page---#LeLogicalDatabaseProperties Page- props := self properties at: 'registeredDatabaseDirectories' .- props copyFrom: 1 to: 3- self properties at: 'registeredDatabaseDirectories' put: (props copyFrom: 1 to: 3)

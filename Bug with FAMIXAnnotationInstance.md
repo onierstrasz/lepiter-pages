@@ -1,0 +1,5 @@
+---Title: Bug with FAMIXAnnotationInstance---#Bug with FAMIXAnnotationInstance- [[bug]] [[todo]]- {{gtTodo:label=Investigate bug with FAMIXAnnotationInstance}}- The problem seemed to arise after playing the {{gtPage:Analyzing Java systems show|db=2j9m7db2i4oz116bexd7wbdxo}}.- See {{gtClass:GtAnalyzingJavaSystemsShow}}.- The Transcript got filled with the following message:- ```language=text
+Transcript
+
+Automatic deprecation code rewrite: The method LePageViewModel>>#page: called from LeRestPage>>#asContentUIModel has been deprecated. Use #pageModel: instead.Unkown property 'cyclomaticComplexity' in FAMIXAnnotationInstanceUnkown property 'cyclomaticComplexity' in FAMIXAnnotationInstanceUnkown property 'cyclomaticComplexity' in FAMIXAnnotationInstanceUnkown property 'cyclomaticComplexity' in FAMIXAnnotationInstanceUnkown property ...
+```- Then when trying to access the Transcript, or even typing “T” into Spotter, the image would freeze for some time. Clearing the Transcript fixed the problem.

@@ -1,0 +1,1 @@
+---Title: *Add a "Clear GT notifications" button---#*Add a "Clear GT notifications" button- [[todo]] [[feature]]- {{gtTodo:label=Add button to clear Gt notifications}}.- [[issue]]  [#1816](https://github.com/feenkcom/gtoolkit/issues/1816#issuecomment-994725399)

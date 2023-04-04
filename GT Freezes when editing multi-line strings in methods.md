@@ -1,0 +1,4 @@
+---Title: GT Freezes when editing multi-line strings in methods---#GT Freezes when editing multi-line strings in methods- [[issue]]- [Issue 2720](https://github.com/feenkcom/gtoolkit/issues/2720)- #GT Freezes when editing multi-line strings in methods- Although I cannot reliably reproduce the error, this is how it happened.- Load this package into a fresh image:- Metacello new
+	baseline: 'GtTalks';
+	repository: 'github://onierstrasz/gt-talks:main/src';
+	load- Go to the method {{gtMethod:name=Vissoft2022Slideshow>>ludoIntro:}}.- There is a long, multi-line String literal in the method. Try to edit it, eg add an extra sentence.- At some point you will get an “I am an Oups NULL debugging exception” error. If you are unlucky, the image will freeze. If you are lucky, you will get an “AssertionFailure: Wrong layout state! It should be: 4 but it is 2”.

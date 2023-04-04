@@ -1,0 +1,1 @@
+---Title: Need query to find pages without tags---#Need query to find pages without tags- [[todo]]- Should add to the tag page.- Have a query that finds all pages that don't contain any of the tags listed in the tag page.

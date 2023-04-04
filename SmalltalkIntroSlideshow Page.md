@@ -1,0 +1,1 @@
+---Title: SmalltalkIntroSlideshow Page---#SmalltalkIntroSlideshow Page- self db .- aPage := self everythingHappensBySendingMessages.title := aPage title .self db	pageNamed: title	ifAbsent: [ self db addPage: aPage ].

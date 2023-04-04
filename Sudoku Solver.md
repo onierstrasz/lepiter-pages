@@ -1,0 +1,1 @@
+---Title: Sudoku Solver---#Sudoku Solver- [[todo]] [[projects]]- Sudoku Solver project to ilustrate moldable development.- Metacello new	baseline: 'Gt4Sudoku';	repository: 'github://feenkcom/gt4sudoku:main/src';	load.(Smalltalk at: #BaselineOfGt4Sudoku) loadLepiter.Smalltalk saveAs: 'gt4sudoku'

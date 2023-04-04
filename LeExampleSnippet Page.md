@@ -1,0 +1,1 @@
+---Title: LeExampleSnippet Page---#LeExampleSnippet Page- self storeString- LeStorageExamples new assertSnippetEqualsEvaluatedStoreString: self

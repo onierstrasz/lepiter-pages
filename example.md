@@ -1,0 +1,1 @@
+---Title: example---#example- [[tags]]- #Examples that could be useful for howtos

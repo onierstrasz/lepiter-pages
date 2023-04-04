@@ -1,0 +1,5 @@
+---Title: How to reload the gt book---#How to reload the gt book- [[howto]] [[lepiter]]- See also:- {{gtPage:How to reload the content of the default logical database|db=2j9m7db2i4oz116bexd7wbdxo}}- Reload everything:- LeDatabasesRegistry defaultLogicalDatabase reload.- Reload just the gt book.- LeStorageExamples new gtBook monitor primitiveReload.- If that fails, then follow {{gtPage:How to replace the default logical database instance|db=2j9m7db2i4oz116bexd7wbdxo}}.    - currentDatabase := LeDatabasesRegistry default defaultLogicalDatabase.
+currentDatabase saveProperties.
+databaseProperties := currentDatabase properties.
+LeDatabasesRegistry default stopMonitoring.
+LeDatabasesRegistry default 	defaultLogicalDatabase: databaseProperties logicalDatabase.    - GtWorld allInstances do: [:each | each knowledgeBase: LeDatabasesRegistry defaultLogicalDatabase ].    - This may be needed if reloading raises errors.    - See also [[Links across database break if renamed]].        - We're going debug {{gtMethod:name=LeLocalStoreMonitor>>#submitReload}}.

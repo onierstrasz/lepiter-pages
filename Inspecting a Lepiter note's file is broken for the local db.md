@@ -1,0 +1,1 @@
+---Title: Inspecting a Lepiter note's file is broken for the local db---#Inspecting a Lepiter note's file is broken for the local db- [[issue]] [[bug]]- This seems to be broken for just some notes.- Try [[VISSOFT 2022 Keynote]]- Click on the “inspect” button, then on the file folder icon.- It seems to work randomly or not.

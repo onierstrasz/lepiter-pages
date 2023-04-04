@@ -1,0 +1,1 @@
+---Title: CallGraph Page---#CallGraph Page- calls := (Character cr split: self logText) collect: [ :line | JavaCall from: line in: self ]- self calls collect: [ :each | $: split: ($| split: each logText) second ]

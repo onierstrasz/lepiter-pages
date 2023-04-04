@@ -1,0 +1,1 @@
+---Title: How to categorize uncategorized classes---#How to categorize uncategorized classes- [[howto]] [[todo]]- Suppose we have a bunch of uncategorized classes. How do we move all the uncategorized ones without moving them manually?- PP2AlignOLNode package

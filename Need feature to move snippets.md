@@ -1,0 +1,1 @@
+---Title: Need feature to move snippets---#Need feature to move snippets- [[todo]] [[feature]]- Need a way to move snippets around to different pages (like in Trello).    - {{gtTodo:label=Propose a way to move snippets between pages.}}    - Perhaps in the menu add a `move snippet` feature.

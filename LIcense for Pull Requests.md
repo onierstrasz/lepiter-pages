@@ -1,0 +1,1 @@
+---Title: LIcense for Pull Requests---#LIcense for Pull Requests- [[randomnote]] [[feenk]]- Apperently feenk won't integrate pull requests for its own projects, as it lacks a suitable license agreement.- See the [Discord discussion](https://discord.com/channels/729445214812504107/735945764597006466/935651911640690788).

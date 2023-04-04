@@ -1,0 +1,1 @@
+---Title: LeParser parsing example---#LeParser parsing example- [[randomnote]] [[example]] [[lepiter]]- Blah{{gtClass:name=Object}} {{gtMethod:name=Object>>#=}}{{gtWordExplanation:refactoring}}- LeParser parse: 'Blah{{gtClass:name=Object}} {{gtMethod:name=Object>>#=}}{{gtWordExplanation:refactoring}}'

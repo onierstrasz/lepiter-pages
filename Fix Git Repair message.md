@@ -1,0 +1,1 @@
+---Title: Fix Git Repair message---#Fix Git Repair message- [[todo]] [[bug]]- *Has this already been done?*- See the [discussion on slack](https://feenk.slack.com/archives/CNT0ZB7T9/p1645780632633089) with [[VH]].- I added {{gtMethod:GtGitRepairProject>>help|expanded}}, but it is a bit long.- Try to come up with a shorter version...

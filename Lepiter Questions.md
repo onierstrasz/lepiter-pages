@@ -1,0 +1,6 @@
+---Title: Lepiter Questions---#Lepiter Questions- [[Q]] [[open]] [[lepiter]]- #Open Questions    - [[Q]] How do I get a bullet list? Hyphen does not seem to work. [[open]]- #Answered Questions    - [[Q]] Where are the GT Book and other documents stored? Are they in the image? Are they online?        - Everything is in the main [gtoolkit repo](https://github.com/feenkcom/gtoolkit).    - [[Q]] How do I make a Lepiter document / book part of a git repo? How do I load it?        - Just create a subfolder and add it as a database.        - To load it, follow this example:        - Metacello new
+   baseline: 'FeenkPrivateLepiter';
+   repository: 'github://feenkcom/feenk-private-lepiter:main/src';
+   load.
+#BaselineOfFeenkPrivateLepiter asClass loadLepiterKnowledgeBase    - [[Q]] What is the Keyboard shortcut to indent a snippet (add it to the snippet above)?        - cmd+]
+cmd+[ unindents    - [[Q]] How do I insert a CR within a text snippet?        - ctrl-enter    - [[Q]] What are the Lepiter Markdown commands?        - See the [[Update the GT Book Lepiter Cheat Sheet]].    - [[Q]] Is there an intro document?        - See [Introducing Lepiter](https://lepiter.io/feenk/introducing-lepiter--knowledge-management--e2p6apqsz5npq7m4xte0kkywn/).

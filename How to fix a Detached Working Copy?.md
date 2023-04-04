@@ -1,0 +1,2 @@
+---Title: How to fix a Detached Working Copy?---#How to fix a Detached Working Copy?- [[howto]]- If you image crashes and you then restart and continue working, the image may be out of sync with the changes. How to save your changes and merge?- (1) push everything to a new branch, repair and merge, or
+(2) backup (save) the lepiter files and the code fileouts, repair, restore the backups and push- SPL package fileOut

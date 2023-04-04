@@ -1,0 +1,1 @@
+---Title: Add page on SmaCC to gtbook---#Add page on SmaCC to gtbook- [[todo]] [[asap]][[gtbook]] [[smacc]] [[newpage]]- Lots of things needed.    - Need pointers to tutorials.- Also need a description of scopes.    - See also [[issue]] [#2964](https://github.com/feenkcom/gtoolkit/issues/2964) on SmaCC scopes.

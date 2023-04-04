@@ -1,0 +1,1 @@
+---Title: Playing with UIDs---#Playing with UIDs- [[randomnote]] [[lepiter]]- thisSnippet- uid := thisSnippet uid- thisSnippet database blockWithUID: uid- thisSnippet database blockWithUID: (LeUID new uidString: '90+KV9uSDQCItUMdAmWMkw==')

@@ -1,0 +1,1 @@
+---Title: How to add todos to methods?---#How to add todos to methods?- [[howto]]- [[Q]] Is there a convention for adding todos to classes and methods? (e.g., a pragma, or a self method to call?)- Just use `self todo: 'something'` and then you can search- #todo: gtReferences- Alternatively use the `<todo: ...>` pragma and search for:- #todo: gtPragmas

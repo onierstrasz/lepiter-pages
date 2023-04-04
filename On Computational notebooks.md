@@ -1,0 +1,1 @@
+---Title: On Computational notebooks---#On Computational notebooks- [[randomnote]] [[reading]]- Article on [Pain Points of Computational Notebooks](https://www.microsoft.com/en-us/research/uploads/prod/2020/03/chi20c-sub8173-cam-i16.pdf)

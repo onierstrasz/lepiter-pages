@@ -1,0 +1,3 @@
+---Title: Documenting snippet parameters---#Documenting snippet parameters- [[howto]] [[randomnote]]- What are all the parameters of the various kinds of snippets?- Where can you look this up?- #Example methods    - Here's a bunch for example snippets:    - ```language=text
+GtGraphTreemapLayoutExamples >> #squarifyWithSevenNodes | codeExpanded=false | previewExpanded=true | previewShow=#gtPreviewFor: | previewHeight=400
+```    - There's also `noCode=true`.    ```{{gtExample:GtGraphTreemapLayoutExamples >> #squarifyWithSevenNodes | codeExpanded=false | previewExpanded=true | previewShow=#gtPreviewFor: | previewHeight=400}}```

@@ -1,0 +1,1 @@
+---Title: Clean up lepiter TOC -- just point to tag pages---#Clean up lepiter TOC -- just point to tag pages- [[done]]- Instead of having a giant TOC, just list the tags, and a few urgent pages.

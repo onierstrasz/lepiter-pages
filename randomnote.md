@@ -1,0 +1,1 @@
+---Title: randomnote---#randomnote- [[tags]]- #Random notes on various topics.

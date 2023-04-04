@@ -1,0 +1,1 @@
+---Title: How to generate a live class hierarchy---#How to generate a live class hierarchy- [[howto]] [[visualizations]]- See also [[How to get a tree view of a class hierarchy]].- (GtMondrianDomainExamples new classHierarchyFor: Boolean withAllSubclasses)	inspect- GtMondrianDomainExamples new classHierarchyFor:	Boolean withAllSubclasses

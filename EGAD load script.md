@@ -1,0 +1,1 @@
+---Title: EGAD load script---#EGAD load script- [[todo]] [[Workflow Evolution]]- Repo: [](https://github.com/pavt/egad)- Load script:- Metacello new	baseline: 'Egad';	repository: 'github://pavt/egad:main/src';	load.(Smalltalk at: #BaselineOfEgad) loadLepiter.Smalltalk saveAs: 'egad'.

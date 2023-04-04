@@ -1,0 +1,10 @@
+---Title: Migrate QualityAssistant to GT?---#Migrate QualityAssistant to GT?- [[todo]] [[feature]] [[renraku]] [[YT]]- {{gtTodo:label=Expore quality rules for GT}}- Started a conversation with Yuriy.- [TG says](https://feenk.slack.com/archives/C3KV7MJ0N/p1643009498054500) we need to have rules workon top of SmaCC AST rather than RB AST.- “The rules should work on top of the SmaCC AST (as opposed to the RB AST). Also, the computation should make use of the new scheduling. So, we need to make our homework first and provide the infrastructure. Others can then add different rules on top.”- [[YT]] email of 2022-02-23:    - sorry I forgot to reply to you. Closer to the end of my PHD I noticed that there is too much attention drawn towards the small plugin in the code browser that lists critiques, while the main thing that I did was the model behind the rules, critiques, and criticized items. I extracted that model into a package called Renraku. Then the main idea was to be able to delete QualityAssistant together with the code browser (if that tool reaches EOL) and be able to enrich other tools with the help of Renraku.
+
+On the other hand, I had a #critiques method (or something like it) defined for every method-object so, naturally, I then displayed lists of critiques as object representations in GTInspector and searchable members of a method in GTSpotter. There was even this one proof of concept where I would run some analysis on constructed objects and show critiques about them in GTDebugger.You can read about it on the page 140 in my thesis [1].
+
+I didn’t follow the development that happened in GT for the last 2-3 years, so I expect that many things have changed. But if you have some use case in mind I can try to help you bringing it to life; that should be fun.
+
+Cheers.
+Yuriy
+
+[1]: [http://yuriy.tymch.uk/papers/quality-aware-tooling.pdf](http://yuriy.tymch.uk/papers/quality-aware-tooling.pdf)    - [Renraku github repo](https://github.com/Uko/Renraku)

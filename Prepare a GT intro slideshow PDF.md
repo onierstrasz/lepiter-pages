@@ -1,0 +1,1 @@
+---Title: Prepare a GT intro slideshow PDF---#Prepare a GT intro slideshow PDF- [[todo]]- When we don't have a laptop, it would be handy to just show some slides of a basic demo.

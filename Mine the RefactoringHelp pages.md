@@ -1,0 +1,1 @@
+---Title: Mine the RefactoringHelp pages---#Mine the RefactoringHelp pages- [[todo]]- The {{gtClass:name=RefactoringHelp}} class was a kind of “book” in Pharo. The idea is to mine those “pages” to reuse in a Lepiter tutorial page.

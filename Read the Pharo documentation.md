@@ -1,0 +1,1 @@
+---Title: Read the Pharo documentation---#Read the Pharo documentation- [[randomnote]] [[todo]] [[reading]]- Lots of stuff at the [Pharo  wiki](https://github.com/pharo-open-documentation/pharo-wiki).- See the [Awesome projects](https://github.com/pharo-open-documentation/awesome-pharo) list.

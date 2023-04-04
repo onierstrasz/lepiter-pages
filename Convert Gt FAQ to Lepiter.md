@@ -1,0 +1,1 @@
+---Title: Convert Gt FAQ to Lepiter---#Convert Gt FAQ to Lepiter- [[todo]] [[soon]] [[gtbook]] [[newpage]]- [[todo]] {{gtTodo:label=Convert Gt FAQ to Lepiter}}. [[soon]]- Review the [GT Q&A Log](https://docs.google.com/document/d/1ce3-s4FRDATE62WmJ4I9ujVtJnWaN8WmoDaMS_kA8DM/edit?usp=sharing) and convert selected items to Lepiter and move to the book.

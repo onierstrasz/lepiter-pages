@@ -1,0 +1,1 @@
+---Title: How to query for senders within a class---#How to query for senders within a class- [[howto]] [[querying]]- GtLiveShow methods select: [ :m | 	(m sendNodes collect: #selector) includes: #priority ]- With filters?- GtLiveShow gtMethodsInClass & #priority gtSenders

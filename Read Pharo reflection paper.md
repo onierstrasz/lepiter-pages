@@ -1,0 +1,2 @@
+---Title: Read Pharo reflection paper---#Read Pharo reflection paper- [[todo]] [[reading]]- Pharo reflection paper- Not a tutorial but only on the metalinks stuff
+Google Scholar- https://arxiv.org/abs/2002.06182

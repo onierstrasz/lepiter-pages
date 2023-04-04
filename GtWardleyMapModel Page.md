@@ -1,0 +1,1 @@
+---Title: GtWardleyMapModel Page---#GtWardleyMapModel Page- self storeString- GtWardleyMapFromDictionaryImporter new importWardleyMapFrom: (STONJSON fromString: self asJSONForExport)

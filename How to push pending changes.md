@@ -1,0 +1,1 @@
+---Title: How to push pending changes---#How to push pending changes- [[howto]]- You can inspect a page and run this:- self database monitor updateEntries- Or you can look for the database you want and run the same code.- (LeDatabasesRegistry defaultLogicalDatabase databases	select: [ :db | db databaseName = '...' ]) monitor updateEntries

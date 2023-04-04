@@ -1,0 +1,1 @@
+---Title: Check out LepiterBuildingBlocs---#Check out LepiterBuildingBlocs- {{gtTodo:label=Check out LepiterBuildingBlocs}}- [[todo]]  [[exploration]]- See the [LepiterBuildingBlocs github repo](https://github.com/botwhytho/LepiterBuildingBlocs)- Here's the [Discord thread](https://discord.com/channels/729445214812504107/735949717049049129/935088942376697856)

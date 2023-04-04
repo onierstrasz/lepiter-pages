@@ -1,0 +1,1 @@
+---Title: IceGitCommit Page---#IceGitCommit Page- LGitCommit	of: self repository repositoryHandle	fromId: (LGitId fromHexString: self id)- self repository	commitFromGitCommit: (LGitCommit			of: self repository repositoryHandle			fromId: (LGitId fromHexString: self id))

@@ -1,0 +1,1 @@
+---Title: LePictureSnippet Page---#LePictureSnippet Page- self storeString- (LePictureSnippet new urlString: 'https://feenk.com/assets/pictures/feenk.png')

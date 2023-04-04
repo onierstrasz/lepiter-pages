@@ -1,0 +1,1 @@
+---Title: How to show explicit references as textual list instead of cards.---#How to show explicit references as textual list instead of cards.- [[howto]] [[lepiter]]- By default explicit references show as an annoying list of previews.- LePageToolContentTreeElement showIncomingReferencesInlined

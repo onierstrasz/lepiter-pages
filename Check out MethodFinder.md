@@ -1,0 +1,1 @@
+---Title: Check out MethodFinder---#Check out MethodFinder- [[todo]]- Look at how it works.- [](https://discord.com/channels/729445214812504107/736333725788274819/990814261620142090)- MethodFinder gtReferences

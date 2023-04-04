@@ -1,0 +1,1 @@
+---Title: BlAtomElement Page---#BlAtomElement Page- self velocity: 3@4- self background: Color blue- self size: 10@10- (self parent children select: [:each | each velocity = (0@0) ])do: [ : each | each size: 10@10. each velocity: 10@10 ]

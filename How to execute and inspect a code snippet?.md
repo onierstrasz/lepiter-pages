@@ -1,0 +1,1 @@
+---Title: How to execute and inspect a code snippet?---#How to execute and inspect a code snippet?- [[howto]]- [[Q]] How to execute a code snippet?- Smalltalk compiler evaluate: '3+4'

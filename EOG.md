@@ -1,0 +1,1 @@
+---Title: EOG---#EOG- [[person]] [[flashcards]]- Edward Ocampo-Gooding- [](https://twitter.com/edwardog)- [](https://www.linkedin.com/in/edwardog)- Joined feenk in August 2022.- Son Theodore, daughter Athena.

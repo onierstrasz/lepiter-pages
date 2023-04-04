@@ -1,0 +1,1 @@
+---Title: How to disable cmd q---#How to disable cmd q- [[randomnote]][[howto]] [[Q]]- How to disable cmd q?- [](https://discord.com/channels/729445214812504107/737255889517543545/955396129577664523)

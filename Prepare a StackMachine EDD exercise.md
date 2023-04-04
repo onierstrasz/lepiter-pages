@@ -1,0 +1,1 @@
+---Title: Prepare a StackMachine EDD exercise---#Prepare a StackMachine EDD exercise- [[todo]] [[howto]]- This might make a nice example for the GT book.

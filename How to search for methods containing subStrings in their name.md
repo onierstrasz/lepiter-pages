@@ -1,0 +1,2 @@
+---Title: How to search for methods containing subStrings in their name---#How to search for methods containing subStrings in their name- [[howto]]- (GtSearchImplementorPatternFilter pattern: 'pad') & 
+(GtSearchImplementorPatternFilter pattern: 'left')- Maybe there should also be a way to write:- 'pad' gtSearchImplementors & 'left' gtSearchImplementors

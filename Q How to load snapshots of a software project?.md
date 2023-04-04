@@ -1,0 +1,1 @@
+---Title: Q How to load snapshots of a software project?---#Q How to load snapshots of a software project?- [[Q]] [[open]]- [[Q]] What's the best way of loading snapshots of a software project? Tagged git repo versions? Branches?

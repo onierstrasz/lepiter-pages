@@ -1,0 +1,4 @@
+---Title: IMAD---#IMAD- [[projects]] [[imad]]- I worked on the [IMAD project](https://github.com/onierstrasz/IMAD) during my sabbatical.- Load it as follows:- Metacello new
+   baseline: 'IMAD';
+   repository: 'github://onierstrasz/IMAD/src';
+   load- ***Warning*** Trying to inspect or view the IMAD class will freeze the image! No idea why.- Instantiating it or inspecting the methods does not cause problems however!- IMAD new allHypernodeExamples- IMAD methods- HypernodeTestExamples- An examples with explicitly positioned nodes:- HypernodeRepository new flatGraphWithNodeProperties

@@ -1,0 +1,1 @@
+---Title: How to count the words in a   Lepiter page---#How to count the words in a   Lepiter page- [[howto]] [[lepiter]]- page := thisSnippet database pageNamed: 'VISSOFT 2022 Keynote'- page allChildrenTextSnippets first string substrings size- (page allChildrenTextSnippets collect: [ :each | each string substrings size ]) sum

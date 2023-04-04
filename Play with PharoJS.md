@@ -1,0 +1,1 @@
+---Title: Play with PharoJS---#Play with PharoJS- [[todo]] [[exploration]]- See the [[Pharo Days notes]].

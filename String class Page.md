@@ -1,0 +1,1 @@
+---Title: String class Page---#String class Page- self class isAbstract- self methods select: #isAbstract

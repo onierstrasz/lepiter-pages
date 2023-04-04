@@ -1,0 +1,1 @@
+---Title: SPLProgram Page---#SPLProgram Page- self asContext- self subNodes- self class allInstVarNames collect: [ :each | self instVarNamed: each ]- SPLProgram for: { SPLStopStatement new } asOrderedCollection

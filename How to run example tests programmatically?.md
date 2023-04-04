@@ -1,0 +1,1 @@
+---Title: How to run example tests programmatically?---#How to run example tests programmatically?- [[howto]] [[open]]- [[Q]] How to run all the examples within a class or a package programmatically?- examples := GtExplicitExampleGroup withAll: GtLudoGame package gtExamplesAllContained.examples runAll

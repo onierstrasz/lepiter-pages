@@ -1,0 +1,1 @@
+---Title: todo---#todo- [[tags]]- [[Add queries to the todo tag page]]- How to find pages with a todo tag but no asap or soon tag.- thisSnippet database pages	select: [ :each | 		(each hasLinkNamed: 'todo')			and: [ (each hasLinkNamed: 'asap') not 			and: [ (each hasLinkNamed: 'soon') not ] ] ]

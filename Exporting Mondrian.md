@@ -1,0 +1,1 @@
+---Title: Exporting Mondrian---#Exporting Mondrian- [[randomnote]] [[howto]] [[gtbook]]- stephan asked about [how to export mondrian graphs](https://discord.com/channels/729445214812504107/735945764597006466/943408632199012392) on discord- Maybe look at how to extend Mondrian with ideas from IMAD

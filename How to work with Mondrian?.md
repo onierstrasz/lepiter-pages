@@ -1,0 +1,1 @@
+---Title: How to work with Mondrian?---#How to work with Mondrian?- [[howto]] [[bloc]] [[visualizations]]- #Where can I learn about Mondrian?    - Browse {{gtClass:name=GtMondrianVsBlocExplanation}} and {{gtClass:name=GtMondrianBasicExamples}}- #How to make a Mondrian view interactive?    - Give it a layout, then you can move the nodes (it seems).

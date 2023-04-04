@@ -1,0 +1,1 @@
+---Title: How to split a Lepiter page---#How to split a Lepiter page- [[howto]] [[lepiter]]- NB: thisSnippet should at the top level (not nested).- NB: remove the snippet before adding it to a new page.- Put snippets after the snippet below to see them move.- thisSnippet moveFollowingSnippetsToPage: 'A page name'

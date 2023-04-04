@@ -1,0 +1,1 @@
+---Title: How to restart the LeDatabase monitors---#How to restart the LeDatabase monitors- [[howto]]- Inspect- LeDatabasesRegistry uniqueInstance- Then send `stopMonitoring` and `startMonitoring` to the stopped databases.- LeDatabasesRegistry uniqueInstance defaultLogicalDatabase	databasesDo: [ :each |	each stopMonitoring.	eavh startMonitoring  ]
